@@ -1,7 +1,10 @@
 # docs
 
 + https://github.com/modula-dev/logo
+https://logo.modula.dev/
+
 + https://github.com/modula-dev/docs
+https://docs.modula.dev/
 
 ![modula.dev](https://raw.githubusercontent.com/modula-dev/logo/master/1/cover.png)
 
