@@ -1,5 +1,10 @@
 # docs
 
++ https://github.com/modula-dev/logo
++ https://github.com/modula-dev/docs
+
+## Co to jest
+
 What modula.dev is?
 
 W skrócie są to zasady panujące w organizacji, podczas jej życia,
