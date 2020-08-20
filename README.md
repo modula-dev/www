@@ -2,8 +2,21 @@
 
 What modula.dev is?
 
+W skrócie są to zasady panujące w organizacji, podczas jej życia,
+tak by każdy już przy pierwszym kontakcie miał jasność od kierowników do klientów, czego i jak może się spodziewać.
 
-# why
+## Kartki
+kartka formatu A4 dla organizacji, która ma wprosty sposób wytłumaczyć jakie panują zasady
+Druga kartka tłumaczy zasady współpracy na każdym poziomie:
++ klienta
++ pracownika
++ kierownika
++ inwestora
+
+W sumie każdy otrzyma informacje ważne dla niego
+ 
+
+## dlaczego?
 
 Tworząc rozwiązania techniczne korzystamy na codzień z narzędzi, które ulegają z czasem specjalizacji, by skuteczniej wspierać w codziennej pracy.
 
@@ -19,11 +32,36 @@ Jak wobec tego się zachować, co zrobić?
 
 Temu służy modula.dev
 
-![1/cover.png](https://raw.githubusercontent.com/modula-dev/logo/master/1/cover.png)
+![modula.dev](https://raw.githubusercontent.com/modula-dev/logo/master/1/cover.png)
 
-# history
+## Cele powstania
+
++ definicja organizacji: wizji, misji, strategii
++ definicja zespołu: ról, oczekiwanych twardych i miękkich kompetencji,
++ definicja produktów i usług: w drodze wypracowywania modeli i prototypów 
++ definicja relacji: z klientami, pracownikami, zarządem, inwestorami
+  
+## Sposoby reagowania
+w zależności od sytuacji
+stworzenie planu awaryjnego na wypadek różnych awaryjnych sytuacji
+plan realizacji projektów, gdy parametry są krytyczne: budżet, czas, skala trudności, mały zespół, trudności z planowaniem, pozyskaniem informacji, komunikacji
+Jak współpracować z klientami: rozpoczęcie, zakończenie, stała współpraca, jednorazowe zlecenie
+
+## zarządzanie w czasie
+
+codzienne stałe procedury, nawyki w zespołach czy stanowiskach, rutyny znane wszystkim
+dzięki czemu można automatyzować planowanie np spotkań dotyczących rozwoju firmy, raportowania, rozwiązywania problemów, zatrudniania i zwalniania.
+
+## zarządzanie relacjami
+opisywanie relacji
+określanie ról i oczekiwań
+zmiana tych oczekiwań, gdy okazuje się, że istnieją probleby
 
 
-# theory
+## Zasady w kontaktach
++ z klientami, pracownikami, kierownikami, inwestorami
+   + rodzaje kontaktów i narzędzi
+
+
 
 
