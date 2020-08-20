@@ -6,11 +6,16 @@ https://logo.modula.dev/
 + https://github.com/modula-dev/docs
 https://docs.modula.dev/
 
++ https://apiunit.com
+w przyszłości będzie częścią specyfikacji apiunit, dla definiowania małych zmodularyzowanych jednostek
+
 ![modula.dev](https://raw.githubusercontent.com/modula-dev/logo/master/1/cover.png)
 
 ## Co to jest
 
 What modula.dev is?
+
+Jest "pilotażowym" projektem definiującym organizację, pozwalające zautomatyzować potencjalnie wszystkie procesy i je delegować niezaleznie od skali.  
 
 W skrócie są to zasady panujące w organizacji, podczas jej życia,
 tak by każdy już przy pierwszym kontakcie miał jasność od kierowników do klientów, czego i jak może się spodziewać.
