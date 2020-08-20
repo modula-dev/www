@@ -3,6 +3,8 @@
 + https://github.com/modula-dev/logo
 + https://github.com/modula-dev/docs
 
+![modula.dev](https://raw.githubusercontent.com/modula-dev/logo/master/1/cover.png)
+
 ## Co to jest
 
 What modula.dev is?
@@ -37,7 +39,7 @@ Jak wobec tego się zachować, co zrobić?
 
 Temu służy modula.dev
 
-![modula.dev](https://raw.githubusercontent.com/modula-dev/logo/master/1/cover.png)
+
 
 ## Cele powstania
 
