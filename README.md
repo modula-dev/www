@@ -40,8 +40,9 @@ Jak wobec tego się zachować, co zrobić?
 Temu służy modula.dev
 
 
-
 ## Cele powstania
+przedstawienie się tym, którzy nas jako roganizacji jeszcze nie znają
+oraz konkretnego członka organizacji, tzn roli jaką pełni w kontakcie z nieznajomą stroną: klientem, inwestorem, nowym pracownikiem
 
 + definicja organizacji: wizji, misji, strategii
 + definicja zespołu: ról, oczekiwanych twardych i miękkich kompetencji,
@@ -71,4 +72,13 @@ zmiana tych oczekiwań, gdy okazuje się, że istnieją probleby
 
 
 
+## Korzyści z istnienia tego dokumentu
+to instrukcja obsługi dla każdego w relacji
+przy rozwoju organizacji są jasne kryteria co jest dla orgaznizacji korzystne lub nie.
+Nie potrzebna jest konfrontacja ze zdaniem innych, gdyż określa to dokument
+na kazdym poziomie, dzięki czemu wiadomo, jakie będą decyzje zapadały na każdym szczeblu.
 
++ transparentność
++ przewidywalność
+
+dzięki czemu każdy członek organizacji ma jasny cel i wie kiedy jest on sprzeczny 
