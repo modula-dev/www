@@ -1,4 +1,4 @@
-# docs
+# [modula.dev](https://www.modula.dev/)
 
 + https://github.com/modula-dev/logo
 https://logo.modula.dev/
@@ -90,3 +90,11 @@ na kazdym poziomie, dzięki czemu wiadomo, jakie będą decyzje zapadały na ka�
 + przewidywalność
 
 dzięki czemu każdy członek organizacji ma jasny cel i wie kiedy jest on sprzeczny 
+
+
+---
++ [edit](https://github.com/modula-dev/www/edit/master/README.md)
+
+```
+https://github.com/modula-dev/www.git
+```
